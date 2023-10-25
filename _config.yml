@@ -23,7 +23,7 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   lhaeni.github.io Blog
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://lhaeni.gitlab.io/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://lhaeni.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 theme: minima
